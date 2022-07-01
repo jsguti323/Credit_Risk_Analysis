@@ -59,13 +59,13 @@ We are using our knowledge of Machine Learning to analyze credit card risk. Cred
 #### Balanced Random Forest Classifier
 ##### Confusion Matrix
 
-![brfc_cm](https://user-images.githubusercontent.com/99751636/176283946-df542ce9-7f8b-4477-9f03-8fb45abaded3.png)
+![brfc_cm](https://user-images.githubusercontent.com/99751636/176804761-6c599aa2-9882-4476-b40f-9de00e47aabe.png)
 
 ##### Classification Report
 
-![brfc_cr](https://user-images.githubusercontent.com/99751636/176283952-dd0f8424-7851-4cf2-9bb3-4017c076f6da.png)
+![brfc_cr](https://user-images.githubusercontent.com/99751636/176804779-a4769618-ada4-49fd-9a1e-8b367c5c84af.png)
 
-* Balanced Accuracy Score: 0.5
+* Balanced Accuracy Score: 0.5693784723481232
 
 #### Easy Ensemble AdaBoost Classifier
 ##### Confusion Matrix
